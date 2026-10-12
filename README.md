@@ -1,10 +1,10 @@
 <div align="center">
 
-![Intro](./assets/hero.svg?v=3)
+![Intro](https://raw.githubusercontent.com/Devesh389/Devesh389/main/assets/hero.svg?v=3)
 ![About](./assets/about-life.svg?v=2)
 ![Stack](./assets/stack.svg?v=2)
-![ID](./assets/id-dashboard.svg?v=3)
-![Connect](./assets/connect.svg?v=2)
+![ID](https://raw.githubusercontent.com/Devesh389/Devesh389/main/assets/id-dashboard.svg?v=3)
+![Connect](https://raw.githubusercontent.com/Devesh389/Devesh389/main/assets/connect.svg?v=3)
 
 </div>
 
