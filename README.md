@@ -1,6 +1,6 @@
 <div align="center">
 
-![Intro](https://raw.githubusercontent.com/Devesh389/Devesh389/1372787425e9c2d31192727aa7a17944142cefd1/assets/hero.svg?v=4)
+![Intro](https://raw.githubusercontent.com/Devesh389/Devesh389/2e94f70d3bb8952f7b3c5b182e5544d72475e944/assets/hero.svg?v=4)
 ![About](./assets/about-life.svg?v=2)
 ![Stack](./assets/stack.svg?v=2)
 ![ID](https://raw.githubusercontent.com/Devesh389/Devesh389/a4b2b1d34a6404dcf2326611c7cf01e7fcb74018/assets/id-dashboard.svg?v=3)
