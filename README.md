@@ -1,10 +1,10 @@
 <div align="center">
 
-![Intro](https://raw.githubusercontent.com/Devesh389/Devesh389/main/assets/hero.svg?v=3)
+![Intro](https://raw.githubusercontent.com/Devesh389/Devesh389/a4b2b1d34a6404dcf2326611c7cf01e7fcb74018/assets/hero.svg?v=3)
 ![About](./assets/about-life.svg?v=2)
 ![Stack](./assets/stack.svg?v=2)
-![ID](https://raw.githubusercontent.com/Devesh389/Devesh389/main/assets/id-dashboard.svg?v=3)
-![Connect](https://raw.githubusercontent.com/Devesh389/Devesh389/main/assets/connect.svg?v=3)
+![ID](https://raw.githubusercontent.com/Devesh389/Devesh389/a4b2b1d34a6404dcf2326611c7cf01e7fcb74018/assets/id-dashboard.svg?v=3)
+![Connect](https://raw.githubusercontent.com/Devesh389/Devesh389/a4b2b1d34a6404dcf2326611c7cf01e7fcb74018/assets/connect.svg?v=3)
 
 </div>
 
