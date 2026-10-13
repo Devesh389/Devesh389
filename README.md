@@ -4,7 +4,15 @@
 ![About](https://raw.githubusercontent.com/deveshsarkaar/deveshsarkaar/1f5a02652b51f5fc78a861fd689f93cdf305a4c2/assets/about-life.svg?v=4)
 ![Stack](./assets/stack.svg?v=2)
 ![ID](https://raw.githubusercontent.com/deveshsarkaar/deveshsarkaar/284879b80f42c1647e99b61fafb0f77008c6a3d2/assets/id-dashboard.svg?v=5)
-![Connect](https://raw.githubusercontent.com/deveshsarkaar/deveshsarkaar/a4b2b1d34a6404dcf2326611c7cf01e7fcb74018/assets/connect.svg?v=3)
+<table>
+<tr>
+<td rowspan="4" width="50%"><img src="./assets/1-connect-portrait.svg" alt="Let's connect - Devesh Sarkaar" width="500"></td>
+<td><a href="https://www.linkedin.com/in/devesh-jain-280842215"><img src="./assets/2-connect-linkedin.svg" alt="LinkedIn - Devesh Sarkaar" width="440"></a></td>
+</tr>
+<tr><td><a href="https://instagram.com/devesh_sarkaar"><img src="./assets/3-connect-instagram.svg" alt="Instagram - @devesh_sarkaar" width="440"></a></td></tr>
+<tr><td><a href="https://wa.me/918120539117"><img src="./assets/4-connect-whatsapp.svg" alt="WhatsApp - +91 81205 39117" width="440"></a></td></tr>
+<tr><td><a href="https://deveshsarkaar.com"><img src="./assets/5-connect-website.svg" alt="Website - deveshsarkaar.com" width="440"></a></td></tr>
+</table>
 
 </div>
 
