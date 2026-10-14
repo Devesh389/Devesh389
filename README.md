@@ -6,11 +6,10 @@
 ![ID](https://raw.githubusercontent.com/deveshsarkaar/deveshsarkaar/284879b80f42c1647e99b61fafb0f77008c6a3d2/assets/id-dashboard.svg?v=5)
 <table>
 <tr>
-<td rowspan="4" width="50%"><img src="https://raw.githubusercontent.com/deveshsarkaar/deveshsarkaar/f7818fca6989b876eacfc7343843a49894baa78c/assets/1-connect-portrait-v2.png?v=png1" alt="Let's connect - Devesh Sarkaar" width="500"></td>
+<td rowspan="3" width="50%"><img src="https://raw.githubusercontent.com/deveshsarkaar/deveshsarkaar/f7818fca6989b876eacfc7343843a49894baa78c/assets/1-connect-portrait-v2.png?v=png1" alt="Let's connect - Devesh Sarkaar" width="500"></td>
 <td><a href="https://www.linkedin.com/in/devesh-jain-280842215"><img src="https://raw.githubusercontent.com/deveshsarkaar/deveshsarkaar/f7818fca6989b876eacfc7343843a49894baa78c/assets/2-connect-linkedin-v2.png?v=png1" alt="LinkedIn - Devesh Sarkaar" width="440"></a></td>
 </tr>
 <tr><td><a href="https://instagram.com/devesh_sarkaar"><img src="https://raw.githubusercontent.com/deveshsarkaar/deveshsarkaar/f7818fca6989b876eacfc7343843a49894baa78c/assets/3-connect-instagram-v2.png?v=png1" alt="Instagram - @devesh_sarkaar" width="440"></a></td></tr>
-<tr><td><a href="https://wa.me/918120539117"><img src="https://raw.githubusercontent.com/deveshsarkaar/deveshsarkaar/f7818fca6989b876eacfc7343843a49894baa78c/assets/4-connect-whatsapp-v2.png?v=png1" alt="WhatsApp - +91 81205 39117" width="440"></a></td></tr>
 <tr><td><a href="https://deveshsarkaar.com"><img src="https://raw.githubusercontent.com/deveshsarkaar/deveshsarkaar/f7818fca6989b876eacfc7343843a49894baa78c/assets/5-connect-website-v2.png?v=png1" alt="Website - deveshsarkaar.com" width="440"></a></td></tr>
 </table>
 
@@ -27,4 +26,4 @@
 
 ## Connect
 
-[LinkedIn](https://www.linkedin.com/in/devesh-jain-280842215) · [Instagram](https://instagram.com/devesh_sarkaar) · [WhatsApp](https://wa.me/918120539117) · [Website](https://deveshsarkaar.com) · [Email](mailto:info@propvanceitsolutions.com)
+[LinkedIn](https://www.linkedin.com/in/devesh-jain-280842215) · [Instagram](https://instagram.com/devesh_sarkaar) · [Website](https://deveshsarkaar.com) · [Email](mailto:info@propvanceitsolutions.com)
